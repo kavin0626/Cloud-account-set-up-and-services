@@ -1,4 +1,5 @@
 # EX NO 1: Cloud-account-set-up-and-services
+
 ```
 Name : KAVINRAJ S
 Reg no: 212223100019
@@ -55,6 +56,18 @@ Create a user with administrative access After you sign up for an AWS account, s
 Secure your AWS account root user Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password. Turn on multi-factor authentication (MFA) for your root user.
 
 Create user with administrative access Enable IAM Identity Center. In IAM Identity Center, grant administrative access to a user.
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
+
+Sign in as the user with administrative access To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
+
+Services Overview: • Explore all the available services in AWS platform.
+
+# Output:
+
+<img width="1898" height="908" alt="image" src="https://github.com/user-attachments/assets/78ef371a-dce7-44cc-a140-ecdc7c1a8ce8" />
+
+<img width="1919" height="908" alt="514483561-2ea203e3-7675-4c51-8a84-30a6bdedfd06" src="https://github.com/user-attachments/assets/ab878ddf-4071-4d87-9d47-d06457d0a1e1" />
+
+# Result:
+Thus an account was created in AWS platform and all the services were explored.
+
+
