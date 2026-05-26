@@ -1,7 +1,8 @@
 # EX NO 1: Cloud-account-set-up-and-services
-
-# Name : KAVINRAJ S
-# Reg no: 212223100019
+```
+Name : KAVINRAJ S
+Reg no: 212223100019
+```
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
